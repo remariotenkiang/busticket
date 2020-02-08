@@ -1,1 +1,3 @@
-# busticket
+# maven-project
+
+Simple Maven Project
